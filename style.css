@@ -58,6 +58,7 @@ header ul li a:hover {
 }
 .mobile-menu:hover {
     cursor: pointer;
+    color: #45C4B0;
 }
 #check {
     display: none;
